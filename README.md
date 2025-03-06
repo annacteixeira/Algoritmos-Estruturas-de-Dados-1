@@ -17,7 +17,7 @@ Esse repositório foi criado para armazenar a resolução das listas de exercíc
  <ul>
    <li>Aulas ministradas em sala</li>
    <li>Documentações das Linguagens</li>
-   <li>Livro: C: Como Programar, Deitel - 6ª edição</li>
+   <li>Livro: C: Como Programar, Deitel - 9ª edição</li>
    <li>Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos,  Aditya Y. Bhargava </li>
  </ul>
 
