@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include <math.h>
 
+/*
+    Escreva um programa que calcule as raízes da equação do 2o grau (ax2 + bx + c); os valores de
+    a, b e c são fornecidos pelo usuário.
+*/
+
 int main(){
     float a = 0, b = 0, c = 0, delta = 0, raiz_delta = 0, raiz_1 = 0, raiz_2 = 0;
 
